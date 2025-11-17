@@ -1,1 +1,1 @@
-Supervised VS UnSupervised ML
+Supervised VS Unsupervised MLs
